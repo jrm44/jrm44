@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @jrm44
-- 👀 I’m interested in coding
+- 👀 I’m interested in coding in VBA, Python and javascript
 - 🌱 I’m currently learning java and javascript
-- 💞️ I’m looking to collaborate on ...
+- 💞️ I’m looking to collaborate on secret's project
 - 📫 How to reach me : 
 
 <!---
